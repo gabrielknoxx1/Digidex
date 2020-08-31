@@ -7,6 +7,7 @@ Digidex
 <hr>
 
 ##Preview
+
 <img src="./src/assets/main.png">
 <img src="./src/assets/search.png">
 
